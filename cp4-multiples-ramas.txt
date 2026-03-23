@@ -1,0 +1,17 @@
+* feature-licencia
+  feature-mensaje-bienvenida
+  main
+
+0449bf1 (HEAD -> feature-licencia) Añade archivo de licencia en rama feature-licencia
+d8ab670 (origin/main, origin/HEAD, main) Merge branch 'main' of github.com:IES-Torrevigia-FP/actividad-6-2-ramas-con-git-skr1tn
+3015b5f Create cp2-feature-branch.txt
+16a89d4 Create cp1-ramas-iniciales.txt
+95bd256 Versión inicial de la aplicación
+c71ff31 add deadline
+a085ca8 Initial commit
+
+main: Es la rama principal que contiene la versión estable de la aplicación.
+
+feature-mensaje-bienvenida: Es una rama de características que contiene la funcionalidad de un mensaje de bienvenida en el archivo `app.txt`.
+
+feature-licencia: Es una nueva rama creada para añadir un archivo de licencia (`LICENSE.txt`) con información sobre el uso permitido.
