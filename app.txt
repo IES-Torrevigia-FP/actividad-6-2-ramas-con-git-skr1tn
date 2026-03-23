@@ -1,1 +1,2 @@
 Versión inicial de la aplicación
+Mensaje de bienvenida: ¡Hola desde la rama feature!
