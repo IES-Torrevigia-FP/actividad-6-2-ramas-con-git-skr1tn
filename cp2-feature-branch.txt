@@ -1,0 +1,13 @@
+* feature-mensaje-bienvenida
+  main
+
+39c9a37 (HEAD -> feature-mensaje-bienvenida) Añade mensaje de bienvenida en rama feature
+95bd256 (main) Versión inicial de la aplicación
+c71ff31 (origin/main, origin/HEAD) add deadline
+a085ca8 Initial commit
+
+
+
+
+
+En la rama feature-mensaje-bienvenida he añadido un mensaje de bienvenida al archivo app.txt, indicando que proviene de esta nueva rama. El objetivo es trabajar en esta nueva funcionalidad sin afectar la rama principal.
